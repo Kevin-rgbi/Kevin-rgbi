@@ -1,9 +1,6 @@
 ## Hi there 👋
 # Hi there, I'm Kevin! 👋
 
-🎓 **Computer Science Student** at Hunter College (Expected 2029) with a focus on **Bioinformatics**
-
-💻 **Software Engineer** passionate about mobile development, data science, and creating meaningful tech solutions
 
 ## 🔧 Tech Stack
 - **Languages:** Python, Java, C, JavaScript, HTML/CSS, MATLAB
