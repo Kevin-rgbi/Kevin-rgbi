@@ -18,9 +18,8 @@
 
 ## 🌟 Fun Facts
 - 🏀 Built an NBA start time predictor
-- 🌍 Trilingual: English, Spanish, Korean
 - 🎯 First-generation college student and MLT Scholar
-- 📱 From data science to mobile apps - I love the full spectrum of tech!
+- 📱 From data science to mobile apps
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](http://linkedin.com/in/kevin-guillermo-6b049425b)
