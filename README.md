@@ -29,7 +29,6 @@
 - 📍 New York, NY
 
 ---
-*Always learning, always building, always growing* 🌱
 <!--
 **Kevin-rgbi/Kevin-rgbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
