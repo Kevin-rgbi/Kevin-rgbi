@@ -1,6 +1,4 @@
-## Hi there 👋
-# Hi there, my name is Kevin! 👋
-
+## Hi there, my name is Kevin! 👋
 
 ## 🔧 Tech Stack
 - **Languages:** Python, Java, C, JavaScript, HTML/CSS, MATLAB
