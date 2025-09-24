@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there, I'm Kevin! 👋
+# Hi there, my name is Kevin! 👋
 
 
 ## 🔧 Tech Stack
