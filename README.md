@@ -4,7 +4,6 @@
 - **Languages:** Python, Java, C, JavaScript, HTML/CSS, MATLAB
 - **Frameworks & Tools:** React.js, PyTorch, Flask, Docker, Git, Linux
 - **Databases:** PostgreSQL
-- **Mobile:** iOS Development (Xcode), TestFlight, App Store Connect
 - **Data Science:** XGBoost, Scipy, K-clustering
 
 ## 🚀 What I'm Working On
