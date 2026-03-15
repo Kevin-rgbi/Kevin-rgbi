@@ -1,7 +1,7 @@
 ## Hi there, my name is Kevin! 👋
 
 ## 🔧 Tech Stack
-- **Languages:** Python, Java, C, JavaScript, HTML/CSS, MATLAB
+- **Languages:** Java, C, JavaScript, HTML/CSS,
 - **Frameworks & Tools:** React.js, PyTorch, Flask, Docker, Git, Linux
 - **Databases:** PostgreSQL
 - **Data Science:** XGBoost, Scipy, K-clustering
