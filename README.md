@@ -1,41 +1,30 @@
-## Hi there, my name is Kevin! 👋
+# Hi, I'm Kevin 👋
 
-## 🔧 Tech Stack
-- **Languages:** Java, C, JavaScript, HTML/CSS,
-- **Frameworks & Tools:** React.js, PyTorch, Flask, Docker, Git, Linux
-- **Databases:** PostgreSQL
-- **Data Science:** XGBoost, Scipy, K-clustering
+I'm a Computer Science student at Hunter College interested in software engineering, data, and healthcare technology.
 
-## 🚀 What I'm Working On
-- Developing iOS applications for healthcare tech
-- Building predictive models and data analysis tools
+## Currently
 
-## 💼 Experience Highlights
-- **Software Engineer** at Pharmachute Technologies LLC - Led iOS app development and App Store deployment
-- **Data Science Intern** - Applied machine learning and data analysis to real-world problems
-- **Tech Flex Leader** at America On Tech - Mentoring the next generation of diverse tech talent
+- Working on iOS applications in healthcare technology
+- Building data analysis tools and predictive models
+- Learning more about full-stack development and applied machine learning
 
-## 🌟 Fun Facts
-- 🏀 Built an NBA start time predictor
-- 🎯 First-generation college student and MLT Scholar
-- 📱 From data science to mobile apps
+## Experience
 
-## 📫 Let's Connect!
-- 💼 [LinkedIn](http://linkedin.com/in/kevin-guillermo-6b049425b)
-- 📍 New York, NY
+- **Software Engineer Intern at Pharmachute Technologies**  
+  Contributing to iOS development, testing, and App Store deployment
 
----
-<!--
-**Kevin-rgbi/Kevin-rgbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Data Science Intern**  
+  Applied machine learning and data analysis to real-world datasets
 
-Here are some ideas to get you started:
+- **Peer Mentor at America On Tech**  
+  Supporting students as they build their programming skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I like to draw
+- First-generation college student and MLT Ascend Scholar
+- Based in New York City
+
+## Connect
+
+[LinkedIn](http://linkedin.com/in/kevin-guillermo-6b049425b)
