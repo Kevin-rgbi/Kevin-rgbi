@@ -1,4 +1,4 @@
-# Hi, I'm Kevin 👋
+# I'm Kevin 👋
 
 I'm a Computer Science student at Hunter College interested in software engineering, data, and healthcare technology.
 
